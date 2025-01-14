@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFAsyncNvarcharMax", "EFAsyncNvarcharMax\EFAsyncNvarcharMax.csproj", "{6D3C3DDE-A974-42D9-A4AF-EB068AE8A806}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF.CharMax.Benchmark", "EF.CharMax.Benchmark\EF.CharMax.Benchmark.csproj", "{6D3C3DDE-A974-42D9-A4AF-EB068AE8A806}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
